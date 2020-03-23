@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=5V Pin=ARD-56
+Removed Pin From Net: NetName=12V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J9-1
+Removed Pin From Net: NetName=12V Pin=J11-1
+Removed Pin From Net: NetName=12V Pin=J12-1
+Change Component Footprint: Designator=J9 Old Footprint=JST4 New Footprint=JST8
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=5V Pin=J11-1
+Added Pin To Net: NetName=5V Pin=J12-1
+Change Net Name : Old Net Name=MISI New Net Name=MOSI
+Added Pin To Net: NetName=BUTTON1 Pin=ARD-38
+Added Pin To Net: NetName=BUTTON1 Pin=J9-6
+Added Net: Name=BUTTON1
+Added Pin To Net: NetName=BUTTON2 Pin=ARD-39
+Added Pin To Net: NetName=BUTTON2 Pin=J9-7
+Added Net: Name=BUTTON2
+Added Pin To Net: NetName=BUTTON3 Pin=ARD-40
+Added Net: Name=BUTTON3
+Added Pin To Net: NetName=RESET Pin=ARD-54
+Added Pin To Net: NetName=RESET Pin=J9-5
+Added Net: Name=RESET
+Added Room: Name=Cart
